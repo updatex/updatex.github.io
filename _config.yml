@@ -1,5 +1,7 @@
 # Site settings
+# 出现在html 里面
 title: UpdateX Blog
+# 出现在浏览器Tab里面
 SEOTitle: UpdateX的博客 | Updatex Blog
 header-img: img/post-bg-desk.jpg
 email: gxin@ebay.com
