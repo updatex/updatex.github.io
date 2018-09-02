@@ -50,8 +50,8 @@ kramdown:
 
 
 # 评论系统
- Disqus（https://disqus.com/）
- disqus_username: updatex
+# Disqus（https://disqus.com/）
+# disqus_username: updatex
 
 # Gitalk
 #gitalk:
