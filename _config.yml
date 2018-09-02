@@ -13,7 +13,7 @@ github_repo: "https://github.com/updatex/updatex.github.io.git" # you code repos
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "It is really one test from updatex"
 sidebar-avatar: /img/post-bg-2015.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
